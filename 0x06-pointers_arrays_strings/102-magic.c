@@ -21,4 +21,8 @@ int main(void)
   printf("a[2] = %d\n", a[2]);
   return (0);
 }
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
 
+    Te
